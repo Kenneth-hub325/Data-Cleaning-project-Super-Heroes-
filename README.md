@@ -1,7 +1,3 @@
-Here’s a professional **README.md** draft for your GitHub project based on the steps in your Jupyter notebook 👇
-
----
-
 # 🦸‍♂️ SuperHero Data Cleaning Project
 
 ## 📘 Overview
