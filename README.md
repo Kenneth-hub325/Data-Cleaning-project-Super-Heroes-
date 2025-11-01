@@ -166,5 +166,3 @@ SuperHeroProject/
 Data Engineer
 
 ---
-
-Would you like me to format this README with Markdown styling (headings, emojis, code blocks, and section links) ready for direct upload to GitHub?
