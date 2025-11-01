@@ -177,7 +177,6 @@ SuperHeroProject/
 Data Engineer
 
 📧 Email: [mbadughakenneth2021@gmail.com](mailto:mbadughakenneth2021@gmail.com)
-🌐 GitHub: [github.com/kennethmbadugha](https://github.com/kennethmbadugha)
 
 ---
 
